@@ -6,7 +6,7 @@ Fresher|Flutter developer|Mobile App Developer
 
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aravind-r-flutter-developer)
-[<img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=red" />](https://img.shields.io/badge/Gmail.com/aravindr330@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)
+[<img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=red" />](https://img.shields.io/badge/Gmail.com/aravindr330@gmail.com?style=for-the-badge&logo=gmail&logoColor=red)
 
 
 
