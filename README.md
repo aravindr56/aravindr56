@@ -1,7 +1,7 @@
 ## Hi there 👋
 ##  It's me Aravind
 
-Fresher|Flutter developer|Mobile App Developer
+Fresher||Flutter developer||Mobile App Developer
                                               
 
 - 📫 How to reach me :
